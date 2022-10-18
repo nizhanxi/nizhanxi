@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nizhanxi
 - 👀 I’m interested in people and technologies
-- 🌱 I’m currently learning to provide the best support I can to my team, will be getting to know everyone and what they're working on.
+- 🌱 I’m currently learning to provide the best support I can to my team, and will be getting to know everyone and what they're working on.
 - 💞️ I’m looking to collaborate on creating great products and software.
 - 📫 How to reach me: nizhanxi@maplight.org
 
